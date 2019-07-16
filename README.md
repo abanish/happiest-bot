@@ -2,7 +2,7 @@
 Twitter Application to retweet tweets with happiness in the tweet.
 
 # Twitter Account:
-https://twitter.com/HappiestWorld09
+Follow the [application](https://twitter.com/HappiestWorld09) on twitter.
 
 # Application Description:
 This app looks for a recent tweet every ten minutes with happiness in the context.
